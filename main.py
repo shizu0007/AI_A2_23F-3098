@@ -229,3 +229,4 @@ def main():
 
 main()
 #minor changes
+#Updated visualization logic
