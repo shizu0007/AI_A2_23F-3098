@@ -230,3 +230,4 @@ def main():
 main()
 #minor changes
 #Updated visualization logic
+#change code for controls
